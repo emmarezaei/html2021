@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7094567e-0cae-43f6-88ef-3a70b4049eec" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/h02/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h02/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="7094567e-0cae-43f6-88ef-3a70b4049eec" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616488038435</updated>
       <workItem from="1616488039849" duration="5620000" />
-      <workItem from="1616501365582" duration="1011000" />
+      <workItem from="1616501365582" duration="1308000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1616491205836</created>
@@ -97,7 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616502224615</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="hoofdstuk 2 test 3">
+      <created>1616502395261</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1616502395261</updated>
+    </task>
+    <task id="LOCAL-00009" summary="hoofdstuk 2 test 4">
+      <created>1616502578190</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1616502578190</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +122,8 @@
     <MESSAGE value="hoofdstuk 1 toegevoegd" />
     <MESSAGE value="hoofdstuk 2 test" />
     <MESSAGE value="hoofdstuk 2 test 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="hoofdstuk 2 test 2" />
+    <MESSAGE value="hoofdstuk 2 test 3" />
+    <MESSAGE value="hoofdstuk 2 test 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="hoofdstuk 2 test 4" />
   </component>
 </project>

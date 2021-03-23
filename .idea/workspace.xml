@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7094567e-0cae-43f6-88ef-3a70b4049eec" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/h01/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/h02/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/h01/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/h01/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +46,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1616488038435</updated>
-      <workItem from="1616488039849" duration="3896000" />
+      <workItem from="1616488039849" duration="5620000" />
+      <workItem from="1616501365582" duration="683000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1616491205836</created>
@@ -68,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1616491819583</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="hoofdstuk 1">
+      <created>1616493348655</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1616493348655</updated>
+    </task>
+    <task id="LOCAL-00005" summary="hoofdstuk 1 toegevoegd">
+      <created>1616493457097</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1616493457097</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,6 +94,8 @@
     <MESSAGE value="test" />
     <MESSAGE value="Hello Emma Rezaei" />
     <MESSAGE value="Hello Emma Rezaei!" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello Emma Rezaei!" />
+    <MESSAGE value="hoofdstuk 1" />
+    <MESSAGE value="hoofdstuk 1 toegevoegd" />
+    <option name="LAST_COMMIT_MESSAGE" value="hoofdstuk 1 toegevoegd" />
   </component>
 </project>
